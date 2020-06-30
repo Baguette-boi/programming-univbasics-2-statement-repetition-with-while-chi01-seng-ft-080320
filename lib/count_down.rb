@@ -3,6 +3,5 @@ count = 10
 while count > 0 do
   break if count == countdown_numb
   puts "#{count}\n"
-else "Happy New Year!"
   count = count- 1 
 end
