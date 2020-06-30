@@ -1,1 +1,7 @@
-# Write your code here
+countdown_numb = 0
+count = 10
+while count > 0 do
+  break if count == countdown_numb
+  puts "#{count}\n Happy New Year!"
+  count = count- 1 
+end
